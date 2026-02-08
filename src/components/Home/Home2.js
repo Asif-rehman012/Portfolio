@@ -12,41 +12,45 @@ function Home2() {
             <h1 style={{ fontSize: "2.6em" }}>
               LET ME <span className="purple"> INTRODUCE </span> MYSELF
             </h1>
+
             <p className="home-about-body">
-              I’m a Software Engineer who loves transforming ideas into
-              reliable, scalable products. Over time, I’ve explored several
-              technologies and found my passion in building high-performance
-              systems and intuitive user experiences.
+              Hi! I’m <b className="purple">Aasif Rehman</b>, a passionate{" "}
+              <b className="purple">Java Developer</b> and{" "}
+              <b className="purple">Full Stack Web Developer</b> who loves
+              building real-world projects and solving problems using{" "}
+              <b className="purple">DSA</b>.
               <br />
               <br />
               I’m proficient in
               <i>
                 <b className="purple">
                   {" "}
-                  JavaScript, C++, Rust, Node.js, and Java{" "}
+                  Java, JavaScript, Data Structures & Algorithms{" "}
                 </b>
               </i>
-              — and I enjoy working across both backend and frontend stacks.
+              and I enjoy writing clean and optimized code.
               <br />
               <br />
               My key areas of interest include developing
               <i>
                 <b className="purple">
                   {" "}
-                  Web Applications, Blockchain Solutions,{" "}
+                  Full Stack Web Applications, Backend Systems{" "}
                 </b>
               </i>
-              and exploring new ways to bridge on-chain and off-chain systems.
+              and creating user-friendly interfaces.
               <br />
               <br />
-              Whenever possible, I love building projects with
-              <b className="purple"> Node.js </b> and modern frameworks like{" "}
+              Whenever possible, I love building projects using{" "}
+              <b className="purple">Node.js</b>,{" "}
+              <b className="purple">Express.js</b> and modern frontend libraries
+              like{" "}
               <i>
-                <b className="purple">React.js</b> and{" "}
-                <b className="purple">Next.js</b>.
+                <b className="purple">React.js</b>.
               </i>
             </p>
           </Col>
+
           <Col md={4} className="myAvtar">
             <Tilt>
               <img src={myImg} className="img-fluid" alt="avatar" />
@@ -57,4 +61,5 @@ function Home2() {
     </Container>
   );
 }
+
 export default Home2;

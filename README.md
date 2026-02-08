@@ -1,76 +1,188 @@
 <h2 align="center">
-  Portfolio Website - v2.0<br/>
-  <a href="https://soumyajit.vercel.app/" target="_blank">soumyajit.tech</a>
+  🚀 Aasif Rehman | Portfolio Website  
+  <br/>
+  <a href="https://vercel.com/asifs-projects-77d7787d" target="_blank">
+    🌐 Live Portfolio
+  </a>
 </h2>
+
 <div align="center">
-  <img alt="Demo" src="./Images/readme-img1.png" />
+  <img alt="Portfolio Preview" src="./Images/readme-img1.png" />
 </div>
 
 <br/>
 
-<center>
+<p align="center">
+  A modern and responsive personal portfolio website built with React.js.  
+  Showcasing my projects, skills, resume, education, and experience.
+</p>
 
-[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com) &nbsp;
-[![forthebadge](https://forthebadge.com/images/badges/made-with-javascript.svg)](https://forthebadge.com) &nbsp;
-[![forthebadge](https://forthebadge.com/images/badges/open-source.svg)](https://forthebadge.com) &nbsp;
-![GitHub Repo stars](https://img.shields.io/github/stars/soumyajit4419/Portfolio?color=red&logo=github&style=for-the-badge) &nbsp;
-![GitHub forks](https://img.shields.io/github/forks/soumyajit4419/Portfolio?color=red&logo=github&style=for-the-badge)
+<br/>
 
-</center>
+<p align="center">
+  <a href="https://github.com/Asif-rehman012">
+    <img src="https://img.shields.io/badge/GitHub-Asif--rehman012-black?style=for-the-badge&logo=github" />
+  </a>
+  <a href="https://linkedin.com/aasifrehman-5979b5185/">
+    <img src="https://img.shields.io/badge/LinkedIn-Aasif%20Rehman-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="https://x.com/aasif_rehman012">
+    <img src="https://img.shields.io/badge/X(Twitter)-@aasif__rehman012-black?style=for-the-badge&logo=x" />
+  </a>
+</p>
 
-<h3 align="center">
-    🔹
-    <a href="https://github.com/soumyajit4419/Portfolio/issues">Report Bug</a> &nbsp; &nbsp;
-    🔹
-    <a href="https://github.com/soumyajit4419/Portfolio/issues">Request Feature</a>
-</h3>
+<br/>
 
-## TL;DR
+<p align="center">
+  <img src="https://img.shields.io/github/stars/Asif-rehman012/Portfolio?color=yellow&style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/github/forks/Asif-rehman012/Portfolio?color=green&style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/github/license/Asif-rehman012/Portfolio?color=red&style=for-the-badge" />
+</p>
 
-You can fork this repo to modify and make changes of your own. Please give me proper credit by linking back to [Soumyajit4419](https://github.com/soumyajit4419/Portfolio). Thanks!
+---
 
-## Built With
+## 📌 About This Project
 
-My personal portfolio <a href="https://soumyajit.vercel.app/" target="_blank">soumyajit.tech</a> which features some of my github projects as well as my resume and technical skills.<br/>
+This is my **personal portfolio website** built using **React.js** and **React-Bootstrap**.  
+It highlights my skills, projects, achievements, resume, and experience in a clean and professional UI.
 
-This project was built using these technologies.
+---
 
-- React.js
-- Node.js
-- Express.js
-- CSS3
-- VsCode
-- Vercel
+## ✨ Features
 
-## Features
+✅ Multi-Page Portfolio Layout  
+✅ Modern UI with Smooth Animations  
+✅ Fully Responsive (Mobile + Desktop)  
+✅ Projects Showcase with GitHub Links  
+✅ Resume PDF Download & Preview  
+✅ GitHub Contribution Calendar  
+✅ Easy Customization (Edit components only)
 
-**📖 Multi-Page Layout**
+---
 
-**🎨 Styled with React-Bootstrap and Css with easy to customize colors**
+## 🛠 Tech Stack
 
-**📱 Fully Responsive**
+This project was built using:
 
-## Getting Started
+- **React.js**
+- **React Router DOM**
+- **React Bootstrap**
+- **CSS3**
+- **JavaScript**
+- **React Icons**
+- **Vercel (Deployment)**
 
-Clone down this repository. You will need `node.js` and `git` installed globally on your machine.
+---
 
-## 🛠 Installation and Setup Instructions
+## 📂 Project Structure
 
-1. Installation: `npm install`
+```bash
+src/
+ ├── components/
+ │    ├── About/
+ │    ├── Home/
+ │    ├── Projects/
+ │    ├── Resume/
+ │    ├── Footer.js
+ │    ├── Navbar.js
+ │    └── Particle.js
+ ├── Assets/
+ ├── App.js
+ ├── index.js
+ └── style.css
 
-2. In the project directory, you can run: `npm start`
+## 🚀 Getting Started
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
-The page will reload if you make edits.
+### 📌 Clone the Repository
+```bash
+git clone https://github.com/Asif-rehman012/Portfolio.git
+```
+### 📌 Go to Project Directory
+```bash
+cd Portfolio
+```
 
-## Usage Instructions
+### 📌 Install Dependencies
+```bash
+npm install
+```
 
-Open the project folder and Navigate to `/src/components/`. <br/>
-You will find all the components used and you can edit your information accordingly.
+### 📌 Run the Project
+```bash
+npm start
+```
 
-### Show your support
+### ✅ Open in Browser
+```bash
+👉 http://localhost:3000
+```
 
-Give a ⭐ if you like this website!
+## 🖼 Preview
 
-<a href="https://www.buymeacoffee.com/soumyajit4419" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-violet.png" alt="Buy Me A Coffee" height= "60px" width= "217px" ></a>
+To add a preview screenshot in README:
+
+📌 Place your screenshot inside:
+```bash
+Images/readme-img1.png
+```
+
+Then it will automatically appear in the README file.
+
+## 🛠 Customization Guide
+
+To edit your portfolio information, navigate to:
+```bash
+📌 src/components/
+```
+Update these files:
+
+Home.jsx → Hero Section + Social Links
+
+AboutCard.jsx → About Me Section
+
+Projects.jsx → Projects List
+
+ResumeNew.jsx → Resume PDF Link
+
+## 📄 Resume Setup
+
+To add your resume:
+
+📌 Place your resume PDF inside:
+
+public/asif-rehman.pdf
+
+
+Then update the resume section if required.
+
+## 🌍 Deployment
+
+You can deploy this portfolio easily using Vercel 🚀
+
+Steps:
+
+Push your code to GitHub
+
+Visit: https://vercel.com/
+
+Import your repository
+
+Click Deploy
+
+## 👨‍💻 Author
+
+Aasif Rehman
+📌 Java Developer | Full Stack Developer | DSA Enthusiast
+
+🔗 Connect With Me
+
+GitHub: https://github.com/Asif-rehman012
+
+LinkedIn: https://linkedin.com/aasifrehman-5979b5185/
+
+X (Twitter): https://x.com/aasif_rehman012
+
+## ⭐ Support
+
+If you like this portfolio project, please give it a ⭐ on GitHub.
+It motivates me to build more awesome projects 🚀🔥
